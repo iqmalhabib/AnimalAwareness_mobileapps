@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="after" />
+    <string name="_next">next</string>
+    <string name="_Next">next</string>
+    <string name="animal_safety_app" />
+    <string name="animal_sound" />
+    <string name="animal_info" />
+    <string name="quizzes" />
+    <string name="gohome" />
+</resources>
